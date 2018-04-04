@@ -1,5 +1,4 @@
 # exercise
-YOLO...
+I sure hope this is better. 
 
-
-d. 
+X = y + 2 
