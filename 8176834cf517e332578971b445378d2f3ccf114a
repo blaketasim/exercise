@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "ea4305d4_023779d9",
+        "filename": "README.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 4,
+      "author": {
+        "id": 1013875
+      },
+      "writtenOn": "2018-04-04T16:06:12Z",
+      "side": 1,
+      "message": "Too many blank lines",
+      "revId": "8176834cf517e332578971b445378d2f3ccf114a",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fde617a6_c04b7ce8",
+        "filename": "README.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 5,
+      "author": {
+        "id": 1013875
+      },
+      "writtenOn": "2018-04-04T16:06:12Z",
+      "side": 1,
+      "message": "no comments. what is this doing",
+      "revId": "8176834cf517e332578971b445378d2f3ccf114a",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
