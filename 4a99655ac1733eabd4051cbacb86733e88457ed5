@@ -1,0 +1,61 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "903b17ef_107614ef",
+        "filename": "dayOfYear.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 1013875
+      },
+      "writtenOn": "2018-04-04T16:27:14Z",
+      "side": 1,
+      "message": "Documentation comments?",
+      "revId": "4a99655ac1733eabd4051cbacb86733e88457ed5",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "02b6be90_3e3883fe",
+        "filename": "dayOfYear.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 23,
+      "author": {
+        "id": 1013875
+      },
+      "writtenOn": "2018-04-04T16:27:14Z",
+      "side": 1,
+      "message": "November only has 30 days",
+      "range": {
+        "startLine": 23,
+        "startChar": 72,
+        "endLine": 23,
+        "endChar": 74
+      },
+      "revId": "4a99655ac1733eabd4051cbacb86733e88457ed5",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1375b109_38a3d8a6",
+        "filename": "dayOfYear.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 25,
+      "author": {
+        "id": 1013875
+      },
+      "writtenOn": "2018-04-04T16:27:14Z",
+      "side": 1,
+      "message": "You should probably create a new variable dayOfYear and return that so that dayOfMonth doesnt get changed.",
+      "revId": "4a99655ac1733eabd4051cbacb86733e88457ed5",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
